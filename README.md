@@ -1,9 +1,10 @@
-<h4 align="center">read links. revamping </h4>
+
+<h4 align="center"> revzmping </h4>
+
+<div align="center">
+  <img width = "33%" src="https://i.postimg.cc/fWXNK0NG/IMG-1734.png">
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-cannibalfeast&color=000000" />
 </p>
-
-
-
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rqolyyf3stvvr6okxtqlasstv4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)
-
