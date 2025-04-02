@@ -1,6 +1,3 @@
-
-<h4 align="center"> beautiful boy </h4>
-
 <div align="center">
   <img width = "80%" src="https://i.postimg.cc/fWXNK0NG/IMG-1734.png">
 </div>
